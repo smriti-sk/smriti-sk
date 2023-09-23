@@ -9,7 +9,7 @@
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smritikumari20) [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=white)](https://twitter.com/_smritikumari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smritikumari20) [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=white)](https://github.com/smriti-sk)
 
 <p align="left"> <a href="https://twitter.com/_smritikumari" target="blank"><img src="https://img.shields.io/twitter/follow/_smritikumari?logo=twitter&style=for-the-badge" alt="_smritikumari" /></a> </p>
 
